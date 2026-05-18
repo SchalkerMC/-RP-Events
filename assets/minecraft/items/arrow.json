@@ -1,0 +1,108 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "custom_model_data",
+		"cases": [{
+			"when": "se_icon_team_spectators",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/spectators"
+			}
+		}, {
+			"when": "se_icon_disconnect",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/disconnect"
+			}
+		}, {
+			"when": "se_icon_cancel",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/cancel"
+			}
+		}, {
+			"when": "se_icon_info_blue",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/info_blue"
+			}
+		}, {
+			"when": "se_icon_team_none",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/none"
+			}
+		}, {
+			"when": "se_icon_team_aqua",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/aqua"
+			}
+		}, {
+			"when": "se_icon_team_blue",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/blue"
+			}
+		}, {
+			"when": "se_icon_team_cyan",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/cyan"
+			}
+		}, {
+			"when": "se_icon_team_green",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/green"
+			}
+		}, {
+			"when": "se_icon_team_lime",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/lime"
+			}
+		}, {
+			"when": "se_icon_team_orange",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/orange"
+			}
+		}, {
+			"when": "se_icon_team_pink",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/pink"
+			}
+		}, {
+			"when": "se_icon_team_purple",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/purple"
+			}
+		}, {
+			"when": "se_icon_team_red",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/red"
+			}
+		}, {
+			"when": "se_icon_team_yellow",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/team/yellow"
+			}
+		}, {
+			"when": "se_icon_tick_small",
+			"model": {
+				"type": "minecraft:model",
+				"model": "se:item/icon/tick_small"
+			}
+		}],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/arrow"
+		}
+	},
+	"oversized_in_gui": false
+}

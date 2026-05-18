@@ -1,0 +1,210 @@
+{
+  "countdown_123": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:countdown_123",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "countdown_go": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:countdown_go",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "map_alert": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:map_alert",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "team_eliminated": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:team_eliminated",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "score_acquired": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:score_acquired",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "score_big_acquired": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:score_big_acquired",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "shrink_short": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:shrink_short",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": true,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "round_end": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:round_end",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "tick_danger_high": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:tick_danger_high",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "tick_danger_normal": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:tick_danger_normal",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "tick_high": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:tick_high",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "tick_normal": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:tick_normal",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "timer_warn": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:timer_warn",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "openable_alert": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:openable_alert",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "click_dead": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:click_dead",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  },
+  "click_normal": {
+    "replace": false,
+    "sounds": [{
+      "name": "se:click_normal",
+      "volume": 1.0,
+      "pitch": 1.0,
+      "weight": 1,
+      "stream": false,
+      "attenuation_distance": 16,
+      "preload": false,
+      "channels": 2
+    }]
+  }
+}

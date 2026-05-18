@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:notes/note_test.png",
+            "height": 290,
+            "ascent": -14,
+            "chars": [
+                "ꐏ"
+            ]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:logo/pack.png",
+            "height": 70,
+            "ascent": 0,
+            "chars": [
+                "l"
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "cases": [
+      {
+        "when": "front_1x1",
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/player_head_front_1x1",
+	      "model": {
+	        "type": "minecraft:player_head",
+	        "kind": "player"
+	      }
+        }
+      },
+      {
+        "when": "front_05x05",
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/player_head_front_05x05",
+	      "model": {
+	        "type": "minecraft:player_head",
+	        "kind": "player"
+	      }
+        }
+      },
+      {
+        "when": "front_2x2",
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/player_head_front_2x2",
+	      "model": {
+	        "type": "minecraft:player_head",
+	        "kind": "player"
+	      }
+        }
+      },
+      {
+        "when": "45_2x2",
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/player_head_45_2x2",
+	      "model": {
+	        "type": "minecraft:player_head",
+	        "kind": "player"
+	      }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/player_head",
+      "model": {
+        "type": "minecraft:player_head",
+        "kind": "player"
+      }
+    }
+  },
+  "oversized_in_gui": true
+}
