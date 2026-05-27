@@ -1,1 +1,21 @@
-{"pack":{"description": "§5§lSchalker Events       §8§ov1.0  deforce_","min_format":69,"max_format":75}}
+{
+  "pack": {
+    "description": "§5§lSchalker Events       §8§ov1.0  deforce_",
+    "min_format": 75,
+    "max_format": 101
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "26_1_x",
+        "min_format": 84,
+        "max_format": 101
+      },
+      {
+        "directory": "1_21_11",
+        "min_format": 75,
+        "max_format": 75
+      }
+    ]
+  }
+}

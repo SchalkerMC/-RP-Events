@@ -1,0 +1,13 @@
+{
+	"textures": {
+		"particle": "block/soul_sand"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 7, 0.0],
+			"rotation": [0.0, 0.0, 0.0],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	},
+	"gui_light": "front"
+}
